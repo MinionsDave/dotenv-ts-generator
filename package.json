@@ -4,10 +4,7 @@
   "description": "A generator that create `typescript` code from `dotenv` config file.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "tsc",
-    "prerelease": "npm run build",
-    "release": "release-it"
+    "build": "tsc"
   },
   "engines": {
     "node": ">=8"

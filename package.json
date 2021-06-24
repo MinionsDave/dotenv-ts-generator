@@ -20,7 +20,11 @@
     "cli",
     "typescript"
   ],
-  "author": "",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MinionsDave/dotenv-ts-generator"
+  },
+  "author": "MinionsDave <wudengguang@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "handlebars": "^4.7.7",
